@@ -25,5 +25,5 @@ if np.any(canvas_result.image_data):
     st.balloons()
 else:
     # Display message if canvas is empty
-    st.header('Prediction:')
-    st.write('No number drawn, please draw a digit to get a prediction.')
+    st.header('Predicción:')
+    st.write('No se dibujó ningún número, dibuja uno para obtener una predicción.')
