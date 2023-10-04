@@ -9,7 +9,7 @@ st.markdown("# Aplicación de :blue[Reconocimiento de] :green[Números] :pencil:
 # Load trained model
 model = tf.keras.models.load_model('mi_modelo.h5')
 
-st.write('Draw a digit:')
+st.write('Dibuja un número:')
 # Display canvas for drawing
 canvas_result = st_canvas(stroke_width=10, height=28*5, width=28*5)
   
