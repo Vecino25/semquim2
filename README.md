@@ -1,3 +1,3 @@
-# Aplicación para reconocimiento de difitos del conjunto Mnist
+# Aplicación para reconocimiento de digitos del conjunto Mnist
  
 
